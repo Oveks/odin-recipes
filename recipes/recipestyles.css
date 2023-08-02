@@ -1,0 +1,31 @@
+
+ul a {
+  margin: 0;
+  display: inline;
+  border: 1px solid black;
+  border-top: none;
+}
+
+html {
+  background-color: tomato;
+  vertical-align: top;
+}
+
+.header {
+  display: block;
+  margin: auto;
+  margin-left: -50px;
+  padding: 0;
+  width: 600px;
+}
+
+body {
+  vertical-align: top;
+  padding: 50px;
+  padding-top: 0;
+  margin: auto;
+}
+
+.links {
+  display: inline-flex;
+}
